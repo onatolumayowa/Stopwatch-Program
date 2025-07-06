@@ -133,4 +133,4 @@ class Stopwatch(QWidget):
         self.time_label.setText(self.format_time(self.time))
 ```
 
-To view the code put together, [click here]()
+To view the code put together, [click here](https://github.com/onatolumayowa/Stopwatch-Program/blob/main/StopWatch.py)
